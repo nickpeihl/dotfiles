@@ -1,0 +1,12 @@
+.bash_history
+.extra
+.fonts
+.jsonresume.json
+.npmrc
+
+.Trash-*
+.gitconfig
+.gnupg
+.i3/logfile
+.emacs.d
+!.emacs.d/personal

@@ -1,0 +1,5 @@
+gtk-icon-theme-name = "Adwaita"
+gtk-theme-name = "Adwaita"
+gtk-font-name = "DejaVu Sans 6"
+
+gtk-toolbar-style = GTK_TOOLBAR_ICONS
